@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Murry stun hang to the floor\n");
 	return 0;
 }
